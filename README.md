@@ -1,2 +1,3 @@
 # hello-world
-My first repository on GitHub.
+This is my first Repository on GitHub.
+Author - Pratyush Ranjan
